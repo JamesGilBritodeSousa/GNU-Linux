@@ -114,6 +114,3 @@ echo "hello world" > a.txt //Escreve arquivo, sobrescrevendo conteúdo anterior
 cat a.txt //abre aquivo pequeno direto no shell
 echo "Acrescenta Linha" >> a.txt //Faz append
 more a.txt //abre aquivos grandes
-
-
-
