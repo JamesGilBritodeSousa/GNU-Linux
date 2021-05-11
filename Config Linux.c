@@ -64,6 +64,20 @@ Instalação:
 5 - cd pyserial-3.4.tar.xz
 6 - sudo python3 setup.py inst
 
+
+Alternativa a cada acesso a USB
+sudo chmod -R 777 /dev/ttyUSB0
+
+Verificar Grupos que o usuário participa
+groups
+
+Verificar grupos disponíveis
+compgen -g
+
+Se inserir no grupo
+sudo usermod -a -G tty(ou dialout) yourname
+fazer logout e login
+
 #----------"VS Code"-------------
 Desinstalar VSCode
 1 - sudo apt purge code
