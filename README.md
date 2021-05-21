@@ -151,7 +151,7 @@ groups
 fazer logout e login (obrigatório)
 
 ---
-## VS Code ###
+## VS Code
 Desinstalar VSCode
 1 - $ sudo apt purge code
 
@@ -159,7 +159,7 @@ Erro Python na instalação VS Code
 1 - $ sudo apt-get install python3-distutils
 
 ---
-## Fritzing ###
+## Fritzing
 ---
 
 Instalar
@@ -175,14 +175,14 @@ Desinstalar
 2 - sudo apt-get remove fritzing --auto-remove
 
 ---
-# Wine
+## Wine
 
 1 - wine
 2 - sudo apt install q4wine
 3 - sudo apt install konsole
 
 ---
-# Mono ---
+## Mono ---
 
 Instalar
 
@@ -205,7 +205,7 @@ Desinstalar
 1 - $ sudo apt-get remove mono-* --auto-remove
 
 ---
-### Pinta 
+## Pinta 
 ---
 
 Instalar
@@ -221,7 +221,7 @@ Desinstalar
 2 - $ sudo apt-get autoremove pinta
 
 ---
-### Comandos Linux no terminal
+## Comandos Linux no terminal
 ---
 
 touch a.txt //Cria arquivo
