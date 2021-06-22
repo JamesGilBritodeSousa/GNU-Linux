@@ -1,7 +1,7 @@
-﻿Guia de Referência:
+Guia de Referência:
 Lista de Comandos para GNU/Linux
 --------------------------------
-![Getting Started](GnuLinux.png)
+![Getting Started](img/GnuLinux.png)
 ### **Atalhos Globais**
 - __Ctrl+C *(*__*cancela o comando atual em funcionamento)*
 - **Ctrl+Z** *(para o comando atual, retorna com fg em primeiro plano* *Linux ou bg em segundo plano)*
