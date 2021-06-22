@@ -2,7 +2,7 @@
 Lista de Comandos para GNU/Linux
 --------------------------------
 
-<img src="Gnulinux.jpg" alt="Gnulinux" width="380"/>
+![](https://github.com/JamesGilBritodeSousa/GNU-Linux/blob/main/Gulinux.jpg?raw=true)
 
 ### **Atalhos Globais**
 - __Ctrl+C *(*__*cancela o comando atual em funcionamento)*
