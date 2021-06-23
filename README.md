@@ -2,7 +2,7 @@
 Lista de Comandos para GNU/Linux
 --------------------------------
 
-![](https://github.com/JamesGilBritodeSousa/GNU-Linux/blob/main/Gulinux.jpg?raw=true)
+![](https://i.imgur.com/QBUgDFU.jpg?raw=true)
 
 ### **Atalhos Globais**
 - __Ctrl+C *(*__*cancela o comando atual em funcionamento)*
