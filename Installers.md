@@ -1,6 +1,5 @@
 # Linux Installers
 
----
 ## UBUNTU
 ---
 
@@ -134,14 +133,13 @@ Para Python2:
 
 ---
 ### Acesso total a USB temporário
----
+
 1 - $ sudo chmod -R 777 /dev/ttyUSB0
 
 ---
 ### Verificar Grupos que o usuário participa
 groups
 
----
 ### Verificar grupos disponíveis
 1 - $ compgen -g
 
@@ -182,7 +180,7 @@ Desinstalar
 3 - sudo apt install konsole
 
 ---
-## Mono ---
+## Mono
 
 Instalar
 
