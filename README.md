@@ -2,8 +2,6 @@
 Lista de Comandos para GNU/Linux
 --------------------------------
 
-<img src="https://i.imgur.com/QBUgDFU.jpg" height="100" width="200" align="right">
-
 ### **Atalhos Globais**
 - __Ctrl+C *(*__*cancela o comando atual em funcionamento)*
 - **Ctrl+Z** *(para o comando atual, retorna com fg em primeiro plano* *Linux ou bg em segundo plano)*
