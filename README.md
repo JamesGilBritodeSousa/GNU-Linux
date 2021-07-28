@@ -5,6 +5,7 @@ Lista de Comandos para GNU/Linux
 ### **Atualizalções**
 - **sudo apt update && sudo apt upgrade** *(atualiza o sistema)*
 - **update-manager -d** *(gerenciador de atualizações)*
+- sudo apt-get install exfat-utils exfat-fuse *(Pacote para formatação ExFAT)*
 
 ### **Atalhos Globais**
 - __Ctrl+C *(*__*cancela o comando atual em funcionamento)*
