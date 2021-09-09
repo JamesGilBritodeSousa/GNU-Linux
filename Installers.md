@@ -181,7 +181,8 @@ Desinstalar
 
 ---
 ## Mono
-
+---
+  
 Instalar
 
 1 - $ echo "deb http://download.mono-project.com/repo/debian wheezy main" | sudo tee /etc/apt/sources.list.d/mono-xamarin.list
@@ -232,3 +233,25 @@ cat a.txt //abre aquivo pequeno direto no shell
 echo "Acrescenta Linha" >> a.txt //Faz append
 
 more a.txt //abre aquivos grandes
+  
+--
+## SQLite
+---
+
+sudo apt-get install build-essential tar wget
+
+wget -c https://www.sqlite.org/2021/sqlite-autoconf-3360000.tar.gz -O sqlite.tar.gz
+
+mkdir sqlite3 && cd sqlite3
+
+tar xvfz ../sqlite.tar.gz
+
+cd sqlite-autoconf-*/
+
+./configure
+
+make
+
+sudo make install
+
+sqlite3 --version
