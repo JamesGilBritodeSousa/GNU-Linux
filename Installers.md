@@ -255,3 +255,15 @@ make
 sudo make install
 
 sqlite3 --version
+  
+--
+## Conda
+---
+  
+conda install -c conda-forge jupyter_contrib_nbextensions
+  
+jupyter contrib nbextension install --sys-prefix
+  
+jupyter nbextension enable codefolding/main
+  
+jupyter nbextension enable hinterland/hinterland
