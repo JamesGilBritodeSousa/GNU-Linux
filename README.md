@@ -500,3 +500,7 @@ Lista de Comandos para GNU/Linux
 - **umcomando | archivodesaida.txt 2> archivodeerros.txt:** Executar um comando, você redirecionar a saída (STDOUT) para um arquivo e os erros (STDERR) para outro.
 - **umcomando | tee arquivodesaida.txt:** executa um comando, exibe a saída na tela e, simultaneamente, grava-lo em um arquivo.
 
+## **Meta Trader 5**
+- **wine:** sudo apt install wine64
+- **install:** wget https://download.mql5.com/cdn/web/metaquotes.software.corp/mt5/mt5ubuntu.sh ; chmod +x mt5ubuntu.sh ; ./mt5ubuntu.sh
+
